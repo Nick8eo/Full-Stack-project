@@ -41,5 +41,5 @@ task-manager/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager.git
+git clone https://github.com/nick8eo/task-manager.git
 cd task-manager
